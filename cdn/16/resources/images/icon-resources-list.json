@@ -1,0 +1,32 @@
+{
+  "1769904102122.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1769904102122.png",
+    "properties": {
+      "filename": "1769904102122.png",
+      "originalName": "Question_mark_(black).svg.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1769904102122.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1769904290417.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1769904290417.png",
+    "properties": {
+      "filename": "1769904290417.png",
+      "originalName": "Logo_THUMBNAIL_Default_Med.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1769904290417.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1769904354909.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1769904354909.png",
+    "properties": {
+      "filename": "1769904354909.png",
+      "originalName": "1703959664474.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1769904354909.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  }
+}
