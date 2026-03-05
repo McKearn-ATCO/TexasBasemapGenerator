@@ -1,0 +1,20 @@
+{
+  "name": "print-lite",
+  "label": "Print Lite",
+  "type": "widget",
+  "version": "1.19.0",
+  "exbVersion": "1.19.0",
+  "author": "Owen McKearn",
+  "description": "Export the current map extent to a simple PDF.",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 120
+  },
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ]
+}
